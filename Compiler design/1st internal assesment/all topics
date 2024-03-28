@@ -1,0 +1,8 @@
+SYLLABUS OF COMPILER DESIGN FOR MTA 1
+
+Phases of Compiler, Compiler vs Interpreter, Top down vs bottom up parsing,
+First  follow computation
+Problems with top down parser and ways to deal with them.
+Token , pattern vs lexeme , count of token in c language statement,
+definition of ambiguous grammar,
+LEX
